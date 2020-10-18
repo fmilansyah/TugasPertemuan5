@@ -1,0 +1,12 @@
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\bin\Debug\TugasPertemuan5.exe.config
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\bin\Debug\TugasPertemuan5.exe
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\bin\Debug\TugasPertemuan5.pdb
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\bin\Debug\TugasPertemuan5.xml
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\obj\Debug\TugasPertemuan5.vbprojAssemblyReference.cache
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\obj\Debug\TugasPertemuan5.Form1.resources
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\obj\Debug\TugasPertemuan5.Resources.resources
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\obj\Debug\TugasPertemuan5.vbproj.GenerateResource.cache
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\obj\Debug\TugasPertemuan5.vbproj.CoreCompileInputs.cache
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\obj\Debug\TugasPertemuan5.exe
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\obj\Debug\TugasPertemuan5.xml
+D:\Projects\VisualBasic\TugasPertemuan5\TugasPertemuan5\obj\Debug\TugasPertemuan5.pdb
